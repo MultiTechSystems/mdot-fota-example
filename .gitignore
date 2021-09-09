@@ -1,0 +1,11 @@
+.project
+*~
+mts_at_version.h
+cscope.*
+mbed-os/
+BUILD/
+.mbed
+__pycache__/
+bin/
+mbed_settings.py
+version.h

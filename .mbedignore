@@ -1,0 +1,6 @@
+mbed-os/connectivity/cellular*
+mbed-os/connectivity/drivers/cellular*
+mbed-os/connectivity/lorawan*
+mbed-os/connectivity/lwipstack*
+mbed-os/connectivity/drivers/lora*
+mbed-os/connectivity/drivers/wifi*
